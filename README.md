@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Image Gallery
+
+Image uploader with React and Firebase
+
+Base on [this tutorial](https://www.youtube.com/watch?v=vUe91uOx7R0&t=1s)
 
 ## Available Scripts
 
