@@ -2,7 +2,9 @@
 
 Image uploader with React and Firebase
 
-Base on [this tutorial](https://www.youtube.com/watch?v=vUe91uOx7R0&t=1s)
+Based on [this tutorial](https://www.youtube.com/watch?v=vUe91uOx7R0&t=1s)
+
+[Live Demo](https://imguploadergallery.netlify.app)
 
 ## Available Scripts
 
